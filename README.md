@@ -10,19 +10,6 @@ This **HR Analytics Dashboard** provides insights into employee attrition, helpi
 - **Years at Company Trends**: Shows attrition trends based on employee tenure.
 - **Interactive Dashboard**: Developed using **Power BI/Tableau** for easy exploration.
 
-## Technologies Used
-- **Python** (Data Processing & Analysis)
-- **SQL** (Data Extraction & Transformation)
-- **Power BI / Tableau** (Data Visualization)
-
-## Installation & Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/hr-analytics-dashboard.git
-   ```
-2. Load the dataset into SQL or a data visualization tool.
-3. Open the Power BI/Tableau file to explore insights.
-
 ## Contribution
 Contributions are welcome! Feel free to submit issues or pull requests.
 
